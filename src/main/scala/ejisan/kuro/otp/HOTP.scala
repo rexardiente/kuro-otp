@@ -42,7 +42,7 @@ class HOTP(
    */
   def generate(counter: Long, lookAheadWindow: Int): Map[Long, String] = {
     generateForCounter(algorithm, digits, otpkey, counter, lookAheadWindow)
-      .mapValues(intToDigits(_, digits))
+      .mapValues(intToDigits(_, digits)).toMap
   }
 
   /**
@@ -134,38 +134,6 @@ class HOTP(
   }
 }
 
-/**
- * Factory for [[HOTP]] instances.
- *
- * @see [[https://tools.ietf.org/html/rfc4226 RFC 4226]]
- *
- * @example
- * === Scala ===
- * {{{
- *  val hotp = HOTP(OTPAlgorithm.SHA1, 6, OTPKey.random(OTPAlgorithm.SHA1))
- *  val code1 = hotp.generate(0l)
- *  if (hotp.validate(0l, code1)) {
- *    println("You are authenticated!")
- *  }
- *  val code2 = hotp.generate(3l)
- *  hotp.validate(0l, 5, code2) foreach { gap =>
- *    println(s"You are authenticated! (gap: $gap)")
- *  }
- * }}}
- * === Java ===
- * {{{
- *  HOTP hotp = HOTP.getInstance(OTPAlgorithm.getSHA1(), 6, OTPKey.random(OTPAlgorithm.getSHA1()));
- *  String code1 = hotp.generate(0l);
- *  if (hotp.validate(0l, code1)) {
- *    System.out.println("You are authenticated!");
- *  }
- *  String code2 = hotp.generate(3l);
- *  java.util.OptionalLong result = hotp.validateAsJava(0l, 5, code2);
- *  if (result.isPresent()) {
- *    System.out.println("You are authenticated! (gap: " + result.getAsLong() + ")");
- *  }
- * }}}
- */
 object HOTP {
   /**
    * Creates new [[HOTP]] instance.

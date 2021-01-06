@@ -1,0 +1,130 @@
+2021.01.04 14:06:30 INFO  Started: Metals version 0.9.8 in workspace '/Users/rexardiente/Development/Github/kuro-otp' for client vscode.
+2021.01.04 14:06:32 INFO  time: initialize in 1.97s
+2021.01.04 14:06:33 WARN  Build server is not auto-connectable.
+2021.01.04 14:06:33 WARN  Unsupported sbt version 0.13.15
+2021.01.04 14:06:43 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/sonatype.sbt
+2021.01.04 14:06:47 INFO  no build target: using presentation compiler with only scala-library
+Jan 04, 2021 2:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Jan 04, 2021 2:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2021.01.04 14:06:48 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/sonatype.sbt' because it doesn't belong to a build target.
+2021.01.04 14:08:14 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+2021.01.04 14:08:38 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/sonatype.sbt
+2021.01.04 14:19:50 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+2021.01.04 14:19:55 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/sonatype.sbt
+2021.01.04 14:19:57 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/sonatype.sbt' because it doesn't belong to a build target.
+2021.01.04 14:22:19 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/HOTP.scala
+2021.01.04 14:22:57 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:22:57 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:23:06 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:23:12 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:23:13 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:23:45 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/HOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:23:53 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/HOTP.scala
+2021.01.04 14:24:21 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:24:22 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:24:24 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:25:08 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:25:20 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:25:20 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:25:23 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:25:23 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:25:23 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:26:32 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:28:15 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:28:15 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:28:15 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:28:15 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:28:23 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:28:23 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:28:39 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:29:20 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:20 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:20 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:29:21 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:26 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:26 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:32 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:33 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:29:33 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:29:33 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:29:53 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:30:24 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:30:37 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:30:37 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:30:37 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+Jan 04, 2021 2:30:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 582
+Jan 04, 2021 2:30:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 4147, count -2, length 4557
+java.lang.StringIndexOutOfBoundsException: offset 4147, count -2, length 4557
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:375)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:373)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:198)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:309)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:316)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:316)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:315)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:315)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:272)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2021.01.04 14:30:45 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:35:15 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+Jan 04, 2021 2:36:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 751
+2021.01.04 14:37:59 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:38:01 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:38:01 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+2021.01.04 14:38:01 WARN  Unsupported sbt version 0.13.15
+2021.01.04 14:38:01 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+Jan 04, 2021 2:38:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 851
+Jan 04, 2021 2:38:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 899
+2021.01.04 14:38:49 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/HOTP.scala
+2021.01.04 14:38:54 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:38:59 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala' because it doesn't belong to a build target.
+2021.01.04 14:39:10 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/TOTP.scala
+2021.01.04 14:39:48 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/src/main/scala/ejisan/kuro/otp/HOTP.scala
+2021.01.04 14:45:22 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:28 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+2021.01.04 14:45:28 WARN  Unsupported sbt version 0.13.15
+2021.01.04 14:45:28 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:41 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+2021.01.04 14:45:41 WARN  Unsupported sbt version 0.13.15
+2021.01.04 14:45:52 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:52 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:52 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:52 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:52 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:55 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:55 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:55 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:45:55 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:00 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:00 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:01 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:01 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:04 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:04 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:12 WARN  code navigation does not work for the file '/Users/rexardiente/Development/Github/kuro-otp/build.sbt' because it doesn't belong to a build target.
+2021.01.04 14:46:12 WARN  no build target for: /Users/rexardiente/Development/Github/kuro-otp/build.sbt
+2021.01.04 14:46:12 WARN  Unsupported sbt version 0.13.15
+2021.01.04 14:51:03 INFO  shutting down Metals
